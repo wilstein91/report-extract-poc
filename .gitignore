@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 증권사 리포트 원본 PDF는 재배포 제한이 있어 커밋하지 않는다.
+# 대신 docs/sources.md 에 출처와 확인 날짜만 남긴다.
+data/reports/*.pdf
+data/reports/*.PDF
+
+# 실행 산출물
+results/runs/
+out/
