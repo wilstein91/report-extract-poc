@@ -7,7 +7,9 @@ authors = [
     { name = "wilstein91", email = "williamus91@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "openpyxl>=3.1.5",
+]
 
 [project.scripts]
 report-extract-poc = "report_extract_poc:main"
