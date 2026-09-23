@@ -16,3 +16,6 @@ data/reports/*.PDF
 
 # 실행 결과(results/runs)는 판단의 증거이므로 커밋한다.
 out/
+
+# 개인 학습용 메모 — 저장소에 올리지 않는다
+Note.md
