@@ -1,0 +1,13 @@
+{
+  "candidate": "llm",
+  "label": "llm_qwen3.5-0.8b",
+  "model": "qwen3.5:0.8b",
+  "pages": 1,
+  "window": 60,
+  "year": 2026,
+  "temperature": 0.0,
+  "n": 10,
+  "total_sec": 223.49775950002368,
+  "mean_sec": 22.349775950002368,
+  "stamp": "20260923_111641"
+}

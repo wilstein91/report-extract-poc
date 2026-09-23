@@ -14,6 +14,5 @@ wheels/
 data/reports/*.pdf
 data/reports/*.PDF
 
-# 실행 산출물
-results/runs/
+# 실행 결과(results/runs)는 판단의 증거이므로 커밋한다.
 out/

@@ -1,0 +1,13 @@
+{
+  "candidate": "list",
+  "label": "list",
+  "model": "qwen3.5:0.8b",
+  "pages": 1,
+  "window": 60,
+  "year": 2026,
+  "temperature": 0.0,
+  "n": 10,
+  "total_sec": 0.01861209998605773,
+  "mean_sec": 0.001861209998605773,
+  "stamp": "20260923_111629"
+}

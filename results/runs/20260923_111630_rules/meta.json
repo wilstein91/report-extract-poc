@@ -1,0 +1,13 @@
+{
+  "candidate": "rules",
+  "label": "rules",
+  "model": "qwen3.5:0.8b",
+  "pages": 1,
+  "window": 60,
+  "year": 2026,
+  "temperature": 0.0,
+  "n": 10,
+  "total_sec": 0.027255199966020882,
+  "mean_sec": 0.002725519996602088,
+  "stamp": "20260923_111630"
+}

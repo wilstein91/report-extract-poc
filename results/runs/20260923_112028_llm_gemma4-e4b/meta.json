@@ -1,0 +1,13 @@
+{
+  "candidate": "llm",
+  "label": "llm_gemma4-e4b",
+  "model": "gemma4:e4b",
+  "pages": 1,
+  "window": 60,
+  "year": 2026,
+  "temperature": 0.0,
+  "n": 10,
+  "total_sec": 890.4592515000259,
+  "mean_sec": 89.04592515000259,
+  "stamp": "20260923_112028"
+}
